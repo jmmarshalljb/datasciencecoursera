@@ -1,7 +1,7 @@
 datasciencecoursera
 ===================
 
-Test repo for course
+##Test repo for course
 
 *Bullet 1
 *Bullet 2
